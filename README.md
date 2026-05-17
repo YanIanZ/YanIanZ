@@ -69,18 +69,6 @@
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YanIanZ&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YanIanZ&icon=1&color=1" alt="Profile Views" />
-</p>
-
 <p align="center">
   <i>🎧 Currently vibing to music while writing the next plugin...</i>
 </p>
