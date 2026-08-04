@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="YanIanZ - Minecraft Plugin Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080b10"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1512"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ddb7d"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#3ddb7d"/>
+      <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ddb7d" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#3ddb7d" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#3ddb7d" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+
+    <clipPath id="frame"><rect width="1000" height="230" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="230" fill="url(#bg)"/>
+    <rect width="1000" height="230" fill="url(#grid)"/>
+
+    <!-- ambient blobs -->
+    <circle cx="130" cy="40" r="90" fill="#3ddb7d" opacity="0.10" filter="url(#softglow)">
+      <animate attributeName="cy" values="40;70;40" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="200" r="100" fill="#22d3ee" opacity="0.10" filter="url(#softglow)">
+      <animate attributeName="cy" values="200;160;200" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating voxels -->
+    <g opacity="0.55">
+      <rect x="812" y="52" width="26" height="26" rx="3" fill="none" stroke="#3ddb7d" stroke-width="2">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="862" y="96" width="18" height="18" rx="3" fill="none" stroke="#22d3ee" stroke-width="2">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 10; 0 0" dur="6.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="902" y="44" width="14" height="14" rx="2" fill="#3ddb7d" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="4.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="770" y="118" width="12" height="12" rx="2" fill="#22d3ee" opacity="0.45">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 9; 0 0" dur="7.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- creeper face, subtle -->
+    <g transform="translate(922,150)" opacity="0.35">
+      <rect x="0" y="0" width="52" height="52" rx="4" fill="#3ddb7d" opacity="0.16"/>
+      <rect x="8"  y="12" width="11" height="11" fill="#0d1117"/>
+      <rect x="33" y="12" width="11" height="11" fill="#0d1117"/>
+      <rect x="18" y="26" width="16" height="10" fill="#0d1117"/>
+      <rect x="14" y="34" width="8"  height="10" fill="#0d1117"/>
+      <rect x="30" y="34" width="8"  height="10" fill="#0d1117"/>
+      <animate attributeName="opacity" values="0.35;0.6;0.35" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- prompt line -->
+    <text x="56" y="58" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="15" fill="#3ddb7d" opacity="0.85">
+      <tspan fill="#22d3ee">~/sourbycraft</tspan> $ whoami<tspan fill="#e6edf3">
+        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>_</tspan>
+    </text>
+
+    <!-- title -->
+    <text x="54" y="130" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="66" font-weight="700" letter-spacing="2" fill="url(#accent)" filter="url(#glow)">YanIanZ</text>
+
+    <!-- subtitle -->
+    <text x="58" y="164" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="16" fill="#8b96a5">Minecraft Plugin Engineer &#183; Folia-safe systems &#183; Server infrastructure</text>
+
+    <!-- tags -->
+    <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">
+      <g transform="translate(58,182)">
+        <rect width="76" height="24" rx="12" fill="#3ddb7d" opacity="0.12"/>
+        <text x="38" y="16" text-anchor="middle" fill="#3ddb7d">Java 25</text>
+      </g>
+      <g transform="translate(142,182)">
+        <rect width="98" height="24" rx="12" fill="#22d3ee" opacity="0.12"/>
+        <text x="49" y="16" text-anchor="middle" fill="#22d3ee">Paper / Folia</text>
+      </g>
+      <g transform="translate(248,182)">
+        <rect width="86" height="24" rx="12" fill="#3ddb7d" opacity="0.12"/>
+        <text x="43" y="16" text-anchor="middle" fill="#3ddb7d">Surabaya</text>
+      </g>
+    </g>
+
+    <!-- scanline -->
+    <rect x="-320" y="0" width="320" height="230" fill="#3ddb7d" opacity="0.045">
+      <animate attributeName="x" values="-320;1000" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- animated bottom rule -->
+    <rect x="0" y="226" width="1000" height="4" fill="url(#fade)"/>
+    <rect width="1000" height="230" rx="14" fill="none" stroke="#3ddb7d" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+</svg>
