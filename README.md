@@ -99,6 +99,13 @@ public final class YanIanZ extends JavaPlugin {
 
 ## `~/` &nbsp;featured work
 
+**[SourbyCraft](https://github.com/YanIanZ/SourbyCraft)** is the flagship — a region-threaded
+Minecraft **26.2** server built on the **CanvasMC** engine (Paper → Folia lineage) that ticks the
+world across CPU cores instead of one main thread. It ships **Cherry** server-side mixins, a
+**~34 MiB SourbyLoader slim jar** that fetches its libraries SHA-256-verified on first boot rather
+than bundling them, offline GeoIP on `/ping`, TPS/RAM boss bars, a channel-aware auto-updater and
+built-in ViaVersion so old clients join out of the box. Java 25, PolyForm-NC licensed.
+
 <p align="center">
   <a href="https://github.com/YanIanZ/SourbyCraft"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SourbyCraft&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" /></a>
   <a href="https://github.com/YanIanZ/SEssentials"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SEssentials&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" /></a>
