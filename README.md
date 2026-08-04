@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3DDB7D&center=true&vCenter=true&width=680&lines=Folia-safe+plugins+for+Paper+1.21.9;Region-threaded%2C+async%2C+zero+main-thread+I%2FO;Panels%2C+proxies+and+the+boring+infra+that+keeps+it+up;Scroll+down+%E2%80%94+there+are+playable+games+in+this+README" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=3DDB7D&center=true&vCenter=true&width=680&lines=Folia-safe+plugins+for+Paper+26.2;Region-threaded%2C+async%2C+zero+main-thread+I%2FO;Panels%2C+proxies+and+the+boring+infra+that+keeps+it+up;Scroll+down+%E2%80%94+there+are+playable+games+in+this+README" alt="what I do" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ public final class YanIanZ extends JavaPlugin {
 <td width="50%" valign="top">
 
 **🔭 &nbsp;Right now**
-- Folia-safe plugin suites for **Paper 1.21.9 / Java 25**
+- Folia-safe plugin suites for **Paper 26.2 / Java 25**
 - `Cherry` — unified server-side mixin + AT system
 - Panel + daemon work in **Go** and **PHP**
 
@@ -115,7 +115,7 @@ public final class YanIanZ extends JavaPlugin {
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[ReMinions](https://github.com/YanIanZ/ReMinions)** | Java | High-performance minion plugin for Paper 1.21.11+ |
+| **[ReMinions](https://github.com/YanIanZ/ReMinions)** | Java | High-performance minion plugin for Paper 26.2+ |
 | **[SourbyAntiCheat](https://github.com/YanIanZ/SourbyAntiCheat)** | Java | Server-side anticheat for the SourbyCraft stack |
 | **[sourby-st](https://github.com/YanIanZ/sourby-st)** | JavaScript | Load-test bot swarm — hundreds of exploring bots from one VPS |
 | **[KaNeil-Panel](https://github.com/YanIanZ/KaNeil-Panel)** | PHP | Game server control panel |

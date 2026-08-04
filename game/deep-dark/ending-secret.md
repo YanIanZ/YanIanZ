@@ -14,7 +14,7 @@ The frame doesn't fill with purple. It fills with a **terminal** — green text 
 black, scrolling, familiar:
 
 ```console
-[00:03:41 INFO]: Starting minecraft server version 1.21.9
+[00:03:41 INFO]: Starting minecraft server version 26.2
 [00:03:41 INFO]: Loading properties
 [00:03:42 INFO]: Preparing level "deep_dark"
 [00:03:44 INFO]: [SourbyCraft] Folia region scheduler online
