@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="footer">
   <defs>
     <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0a1512"/>
+      <stop offset="0%" stop-color="#0b1220"/>
       <stop offset="50%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#080b10"/>
     </linearGradient>
     <linearGradient id="fline" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#3ddb7d" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ffc83d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#4d9fff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffc83d" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="fclip"><rect width="1000" height="120" rx="14"/></clipPath>
   </defs>
@@ -17,7 +17,7 @@
     <rect x="0" y="0" width="1000" height="3" fill="url(#fline)"/>
 
     <!-- terrain silhouette -->
-    <g fill="#3ddb7d" opacity="0.13">
+    <g fill="#4d9fff" opacity="0.15">
       <rect x="0"   y="86" width="1000" height="34"/>
       <rect x="60"  y="70" width="60" height="16"/>
       <rect x="180" y="62" width="40" height="24"/>
@@ -31,10 +31,10 @@
     <text x="500" y="44" text-anchor="middle"
           font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace"
           font-size="15" fill="#8b96a5">
-      built at 3AM &#183; fueled by coffee &#183; <tspan fill="#3ddb7d">bugs don't stand a chance</tspan>
+      built at 3AM &#183; fueled by coffee &#183; <tspan fill="#ffc83d">bugs don't stand a chance</tspan>
     </text>
 
-    <circle cx="500" cy="66" r="3" fill="#3ddb7d">
+    <circle cx="500" cy="66" r="3" fill="#4d9fff">
       <animate attributeName="opacity" values="1;0.15;1" dur="2s" repeatCount="indefinite"/>
     </circle>
   </g>
