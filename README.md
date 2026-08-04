@@ -1,20 +1,20 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4d2e,100:00e676&height=220&section=header&text=YanIanz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Crafting%20worlds%20in%20Minecraft,%20one%20plugin%20at%20a%20time&descAlignY=54&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:13547a,100:00c8ff&height=220&section=header&text=YanIanz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Crafting%20worlds%20in%20Minecraft,%20one%20plugin%20at%20a%20time&descAlignY=54&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00E676&center=true&vCenter=true&width=650&lines=Minecraft+Plugin+Developer+%F0%9F%8E%AE;Spigot+%2F+Paper+Craftsman+%E2%9A%92%EF%B8%8F;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Bugs+don't+stand+a+chance+%F0%9F%90%9B%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Minecraft+Plugin+Developer+%F0%9F%8E%AE;Spigot+%2F+Paper+Craftsman+%E2%9A%92%EF%B8%8F;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Bugs+don't+stand+a+chance+%F0%9F%90%9B%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YanIanZ&label=PROFILE+VIEWS&color=00e676&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=YanIanZ&label=PROFILE+VIEWS&color=00c8ff&style=for-the-badge" alt="views" />
   <a href="https://github.com/YanIanZ?tab=followers">
-    <img src="https://img.shields.io/github/followers/YanIanZ?label=FOLLOWERS&style=for-the-badge&color=00e676&labelColor=0f2027" alt="followers" />
+    <img src="https://img.shields.io/github/followers/YanIanZ?label=FOLLOWERS&style=for-the-badge&color=00c8ff&labelColor=0f2027" alt="followers" />
   </a>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00e676?style=for-the-badge&labelColor=0f2027" alt="status" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00c8ff?style=for-the-badge&labelColor=0f2027" alt="status" />
 </p>
 
 <img src="https://raw.githubusercontent.com/BraveHeart-hue/BraveHeart-hue/main/assets/line-neon.gif" width="100%" onerror="this.style.display='none'" />
@@ -95,7 +95,7 @@ fuel:      ["☕ coffee", "🎧 lo-fi playlist", "🌙 3AM commits"]
 
 <p align="center">
   <a href="https://sourby.my.id">
-    <img src="https://img.shields.io/badge/🚀_SOURBY-Plugin_Infrastructure_for_the_Minecraft_Economy-00e676?style=for-the-badge&labelColor=0f2027" />
+    <img src="https://img.shields.io/badge/🚀_SOURBY-Plugin_Infrastructure_for_the_Minecraft_Economy-00c8ff?style=for-the-badge&labelColor=0f2027" />
   </a>
 </p>
 
@@ -104,7 +104,7 @@ fuel:      ["☕ coffee", "🎧 lo-fi playlist", "🌙 3AM commits"]
 
 <p align="center">
   <a href="https://github.com/YanIanZ">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOS-→-0f2027?style=for-the-badge&logo=github&logoColor=00e676" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOS-→-0f2027?style=for-the-badge&logo=github&logoColor=00c8ff" />
   </a>
 </p>
 
@@ -114,7 +114,7 @@ fuel:      ["☕ coffee", "🎧 lo-fi playlist", "🌙 3AM commits"]
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"> Game Zone — Yes, You Can Actually Play
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRESS_START-00e676?style=for-the-badge&labelColor=0f2027" />
+  <img src="https://img.shields.io/badge/PRESS_START-00c8ff?style=for-the-badge&labelColor=0f2027" />
 </p>
 
 ### 🗺️ &nbsp;The Deep Dark Descent — a text adventure
@@ -123,7 +123,7 @@ A choose-your-own-adventure dungeon crawl that runs entirely inside GitHub. No i
 
 <p align="center">
   <a href="./game/start.md">
-    <img src="https://img.shields.io/badge/▶_START_THE_ADVENTURE-1a4d2e?style=for-the-badge&logo=minecraft&logoColor=00e676" height="42" />
+    <img src="https://img.shields.io/badge/▶_START_THE_ADVENTURE-13547a?style=for-the-badge&logo=minecraft&logoColor=00c8ff" height="42" />
   </a>
 </p>
 
@@ -182,16 +182,16 @@ public void onJoin(PlayerJoinEvent event) {
 ## <img src="https://media.giphy.com/media/ZDOsRhkQfPFxu2vpZ0/giphy.gif" width="32"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YanIanZ&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00e676&icon_color=00e676" height="180" alt="stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YanIanZ&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00e676" height="180" alt="top langs" />
+  <img src="https://github-readme-stats.shion.dev/api?username=YanIanZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00c8ff&icon_color=00c8ff" height="180" alt="stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YanIanZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00c8ff" height="180" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YanIanZ&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00e676&fire=00e676&currStreakLabel=00e676" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=YanIanZ&theme=tokyonight&hide_border=true&background=0D1117&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanIanZ&bg_color=0D1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanIanZ&bg_color=0D1117&color=00c8ff&line=00c8ff&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph" />
 </p>
 
 ---
@@ -200,14 +200,14 @@ public void onJoin(PlayerJoinEvent event) {
 ## <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="32"> Achievements Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YanIanZ&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YanIanZ&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 ---
 
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </p>
 
 ---
@@ -216,7 +216,7 @@ public void onJoin(PlayerJoinEvent event) {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
 
 <p align="center">
-  <a href="https://sourby.my.id"><img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00e676" /></a>
+  <a href="https://sourby.my.id"><img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00c8ff" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -229,5 +229,5 @@ public void onJoin(PlayerJoinEvent event) {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:1a4d2e,100:0f2027&height=140&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:13547a,100:0f2027&height=140&section=footer" width="100%" />
 </p>
