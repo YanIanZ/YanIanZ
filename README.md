@@ -109,13 +109,11 @@ public final class YanIanZ extends JavaPlugin {
 | **[Omniverse](https://github.com/YanIanZ/Omniverse)** | Home of **OmniMemo**: shared local project memory, checkpoints and handoff for coding agents through MCP. | **Swift · MCP · Vapor · MongoDB / SQLite** — early macOS release. |
 
 <p align="center">
-  <a href="https://github.com/YanIanZ/SourbyCraft"><img width="495" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SourbyCraft&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="SourbyCraft repository" /></a>
+  <a href="https://github.com/YanIanZ/SourbyCraft"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SourbyCraft&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="SourbyCraft repository" /></a>
+  <a href="https://github.com/YanIanZ/sela"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=sela&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="Sela repository" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/YanIanZ/sela"><img width="495" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=sela&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="Sela repository" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/YanIanZ/Omniverse"><img width="495" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=Omniverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="Omniverse repository" /></a>
+  <a href="https://github.com/YanIanZ/Omniverse"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=Omniverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="Omniverse repository" /></a>
 </p>
 
 <details>
