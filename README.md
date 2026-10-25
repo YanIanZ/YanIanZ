@@ -1,10 +1,10 @@
 <!-- ════════════════════════════════ BANNER ════════════════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YanIanZ/YanIanZ/main/assets/banner.svg" alt="YanIanZ — Minecraft Plugin Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/YanIanZ/YanIanZ/main/assets/banner.svg" alt="YanIanZ — SourbyCraft, Sela and Omniverse" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4D9FFF&center=true&vCenter=true&width=680&lines=Folia-safe+plugins+for+Paper+26.2;Region-threaded%2C+async%2C+zero+main-thread+I%2FO;Panels%2C+proxies+and+the+boring+infra+that+keeps+it+up" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4D9FFF&center=true&vCenter=true&width=680&lines=SourbyCraft+%E2%80%94+region-threaded+Minecraft;Sela+%E2%80%94+a+little+space+to+feel+heard;Omniverse+%E2%80%94+local+memory+for+coding+agents" alt="what I do" />
 </p>
 
 <p align="center">
@@ -20,21 +20,22 @@
 
 ## `~/` &nbsp;whoami
 
-I build **Minecraft server software** — plugins, forks and the infrastructure underneath them.
-Most of my work lives in the **SourbyCraft** ecosystem: a Folia-based server stack where every
-feature has to survive region threading, which is a polite way of saying *nothing is allowed to
-touch the main thread and hope for the best*.
+I build **Minecraft server systems, thoughtful web applications and local tools for coding agents**.
+My main projects are **[SourbyCraft](https://github.com/YanIanZ/SourbyCraft)**,
+**[Sela](https://github.com/YanIanZ/sela)** and
+**[Omniverse](https://github.com/YanIanZ/Omniverse)** — from region-threaded gameplay
+to a bilingual support companion and shared project memory.
 
 ```java
 public final class YanIanZ extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        stack     = List.of("Java 25", "Paper / Folia", "Mixins", "Go", "PHP", "Bash");
-        building  = "SourbyCraft — server core, economy, essentials, anticheat";
-        alsoDoing = "KaNeil — game panel, daemon, plugin registry";
-        learning  = "JVM tuning, region schedulers, clean plugin architecture";
-        openTo    = "Minecraft open-source collaboration";
+        stack     = List.of("Java 25", "Go", "TypeScript", "React", "Swift", "MCP");
+        building  = "SourbyCraft — Paper-based server with the Aurora region engine";
+        alsoDoing = "Sela + Omniverse — support journeys and local agent memory";
+        learning  = "Region schedulers, consent-aware UX, agent context and handoff";
+        openTo    = "Open-source collaboration across these projects";
         fuel      = List.of("coffee", "lo-fi", "3AM commits");
     }
 
@@ -50,16 +51,17 @@ public final class YanIanZ extends JavaPlugin {
 <td width="50%" valign="top">
 
 **🔭 &nbsp;Right now**
-- Folia-safe plugin suites for **Paper 26.2 / Java 25**
-- `Cherry` — unified server-side mixin + AT system
-- Panel + daemon work in **Go** and **PHP**
+- **SourbyCraft** — Aurora region threading, server tooling and observability
+- **Sela** — designing a bilingual journey toward professional support
+- **Omniverse / OmniMemo** — local project memory and coding-agent handoff
 
 </td>
 <td width="50%" valign="top">
 
 **💬 &nbsp;Ask me about**
 - Region scheduling & why your task threw *"failed main thread check"*
-- Plugin architecture that survives 300 concurrent players
+- Paper plugins, region ownership and server observability
+- MCP tools, project memory and agent handoff
 - Self-hosting: nginx, Docker, VPS, game panels
 
 </td>
@@ -74,22 +76,22 @@ public final class YanIanZ extends JavaPlugin {
 
 <table>
 <tr>
-<td align="center" width="25%"><b>🎮 &nbsp;Minecraft</b></td>
-<td align="center" width="25%"><b>⚙️ &nbsp;Languages</b></td>
+<td align="center" width="25%"><b>🎮 &nbsp;Server systems</b></td>
+<td align="center" width="25%"><b>⚙️ &nbsp;Apps & tools</b></td>
 <td align="center" width="25%"><b>🛠️ &nbsp;Infra</b></td>
 <td align="center" width="25%"><b>🗄️ &nbsp;Data</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=java,gradle,maven,idea&theme=dark&perline=2" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,go,php&theme=dark&perline=2" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=go,ts,react,swift&theme=dark&perline=2" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash&theme=dark&perline=2" /></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql,redis,sqlite,mongodb&theme=dark&perline=2" /></td>
 </tr>
 <tr>
-<td align="center"><sub>Paper · Folia · Velocity<br>Spigot · Mixins</sub></td>
-<td align="center"><sub>Python · JavaScript<br>Shell</sub></td>
+<td align="center"><sub>Paper · Aurora · Folia<br>Gradle · Mixins</sub></td>
+<td align="center"><sub>TypeScript · Go · Swift<br>Next.js · MCP</sub></td>
 <td align="center"><sub>Cloudflare · Vultr<br>AWS · Git</sub></td>
-<td align="center"><sub>HikariCP<br>Flat-file / YAML</sub></td>
+<td align="center"><sub>HikariCP · MongoKitten<br>Flat-file / YAML</sub></td>
 </tr>
 </table>
 
@@ -100,13 +102,16 @@ public final class YanIanZ extends JavaPlugin {
 ## `~/` &nbsp;featured work
 
 
+| Project | What I'm building | Stack & status |
+|:--|:--|:--|
+| **[SourbyCraft](https://github.com/YanIanZ/SourbyCraft)** | A Paper-based Minecraft server with the Aurora region-threading engine, server tooling and observability. | **Java 25 · Paper · Gradle** — actively developed; experimental features are documented in the repo. |
+| **[Sela](https://github.com/YanIanZ/sela)** | *A little space to feel heard.* A bilingual companion being redesigned to help people tell their story and prepare for professional mental-health support. | **Next.js · TypeScript** in the current v1; **Go + React/TypeScript** planned for v2. The new demo uses fictional professionals and simulated care. |
+| **[Omniverse](https://github.com/YanIanZ/Omniverse)** | Home of **OmniMemo**: shared local project memory, checkpoints and handoff for coding agents through MCP. | **Swift · MCP · Vapor · MongoDB / SQLite** — early macOS release. |
+
 <p align="center">
-  <a href="https://github.com/YanIanZ/SourbyCraft"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SourbyCraft&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" /></a>
-  <a href="https://github.com/YanIanZ/SEssentials"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SEssentials&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/YanIanZ/SourbyEconomy"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SourbyEconomy&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" /></a>
-  <a href="https://github.com/YanIanZ/Cherry"><img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=Cherry&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" /></a>
+  <a href="https://github.com/YanIanZ/SourbyCraft"><img width="32%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=SourbyCraft&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="SourbyCraft repository" /></a>
+  <a href="https://github.com/YanIanZ/sela"><img width="32%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=sela&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="Sela repository" /></a>
+  <a href="https://github.com/YanIanZ/Omniverse"><img width="32%" src="https://github-readme-stats.shion.dev/api/pin/?username=YanIanZ&repo=Omniverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=ffc83d" alt="Omniverse repository" /></a>
 </p>
 
 <details>
